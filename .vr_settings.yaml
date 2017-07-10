@@ -1,13 +1,12 @@
 --- !ruby/object:VR_ENV
 vr_yaml_file: C:/D_Drive_Stuff/Prakher/5_Prakher_Projects/23_VRProjects/coinflip/.vr_settings.yaml
-width: 1920
-height: 983
+width: 1860
+height: 949
 panel_pos: 439
 notebook_panel_position: 639
 run_command_line: ruby coinflip.rb
 open_files:
 - C:/D_Drive_Stuff/Prakher/5_Prakher_Projects/23_VRProjects/coinflip/src/MyClass.rb
-- C:\D_Drive_Stuff\Prakher\5_Prakher_Projects\23_VRProjects\coinflip\coinflip.rb
 - C:/D_Drive_Stuff/Prakher/5_Prakher_Projects/23_VRProjects/coinflip/coinflip.gemspec
 open_folders:
 - C:/D_Drive_Stuff/Prakher/5_Prakher_Projects/23_VRProjects/coinflip
